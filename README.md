@@ -1,6 +1,6 @@
 # Escrow Smart Contracts
 
-To run locall (this will also work on an Ethereum Testnet:
+To run locally (this will also work on an Ethereum Testnet:
 
 * Clone this repo
 * Navigate to `reactapp`
